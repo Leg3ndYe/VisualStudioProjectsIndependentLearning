@@ -1,0 +1,8 @@
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\bin\Debug\SchoolApp.exe.config
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\bin\Debug\SchoolApp.exe
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\bin\Debug\SchoolApp.pdb
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\obj\Debug\SchoolApp.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\obj\Debug\SchoolApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\obj\Debug\SchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\obj\Debug\SchoolApp.exe
+C:\Users\lukas\Desktop\Basic tasks\SchoolApp\SchoolApp\obj\Debug\SchoolApp.pdb

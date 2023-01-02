@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\bin\Debug\School Employees.exe.config
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\bin\Debug\School Employees.exe
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\bin\Debug\School Employees.pdb
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\obj\Debug\School Employees.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\obj\Debug\School Employees.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\obj\Debug\School Employees.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\obj\Debug\School Employees.exe
+D:\Programs\Microsoft Visual Studio\projects\School Employees\School Employees\obj\Debug\School Employees.pdb
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\bin\Debug\School Employees.exe.config
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\bin\Debug\School Employees.exe
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\bin\Debug\School Employees.pdb
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\obj\Debug\School Employees.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\obj\Debug\School Employees.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\obj\Debug\School Employees.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\obj\Debug\School Employees.exe
+C:\Users\lukas\Desktop\Basic tasks\School Employees\School Employees\obj\Debug\School Employees.pdb
