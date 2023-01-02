@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\bin\Debug\Classes.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\bin\Debug\Classes.exe
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\bin\Debug\Classes.pdb
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\obj\Debug\Classes.exe
+D:\Programs\Microsoft Visual Studio\projects\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\lukas\Desktop\Basic tasks\Classes\Classes\obj\Debug\Classes.pdb

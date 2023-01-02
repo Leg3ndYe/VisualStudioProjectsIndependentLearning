@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.exe
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.pdb
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.exe
+D:\Programs\Microsoft Visual Studio\projects\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.pdb
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.exe.config
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.exe
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.pdb
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.exe
+C:\Users\lukas\Desktop\Basic tasks\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.pdb

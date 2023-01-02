@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\bin\Debug\Class Interfaces.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\bin\Debug\Class Interfaces.exe
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\bin\Debug\Class Interfaces.pdb
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.exe
+D:\Programs\Microsoft Visual Studio\projects\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.pdb
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\bin\Debug\Class Interfaces.exe.config
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\bin\Debug\Class Interfaces.exe
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\bin\Debug\Class Interfaces.pdb
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.exe
+C:\Users\lukas\Desktop\Basic tasks\Class Interfaces\Class Interfaces\obj\Debug\Class Interfaces.pdb
