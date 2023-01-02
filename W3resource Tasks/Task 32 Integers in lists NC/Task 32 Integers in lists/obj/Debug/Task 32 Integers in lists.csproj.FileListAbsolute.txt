@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\bin\Debug\Task 32 Integers in lists.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\bin\Debug\Task 32 Integers in lists.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\bin\Debug\Task 32 Integers in lists.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\obj\Debug\Task 32 Integers in lists.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\obj\Debug\Task 32 Integers in lists.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\obj\Debug\Task 32 Integers in lists.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\obj\Debug\Task 32 Integers in lists.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 32 Integers in lists NC\Task 32 Integers in lists\obj\Debug\Task 32 Integers in lists.pdb

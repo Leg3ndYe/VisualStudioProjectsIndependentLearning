@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\bin\Debug\Task 35 Sum integers in matrix.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\bin\Debug\Task 35 Sum integers in matrix.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\bin\Debug\Task 35 Sum integers in matrix.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\obj\Debug\Task 35 Sum integers in matrix.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\obj\Debug\Task 35 Sum integers in matrix.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\obj\Debug\Task 35 Sum integers in matrix.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\obj\Debug\Task 35 Sum integers in matrix.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 35 Sum integers in matrix\Task 35 Sum integers in matrix\obj\Debug\Task 35 Sum integers in matrix.pdb

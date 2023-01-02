@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\bin\Debug\Task 36 Sort without moving -5.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\bin\Debug\Task 36 Sort without moving -5.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\bin\Debug\Task 36 Sort without moving -5.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\bin\Debug\Task 36 Sort without moving -5.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\bin\Debug\Task 36 Sort without moving -5.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\bin\Debug\Task 36 Sort without moving -5.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 36 Sort without moving -5 NC\Task 36 Sort without moving -5\obj\Debug\Task 36 Sort without moving -5.pdb

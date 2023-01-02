@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\bin\Debug\Task 3 Printing first 500 prime numbers.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\bin\Debug\Task 3 Printing first 500 prime numbers.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\bin\Debug\Task 3 Printing first 500 prime numbers.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\bin\Debug\Task 3 Printing first 500 prime numbers.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\bin\Debug\Task 3 Printing first 500 prime numbers.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\bin\Debug\Task 3 Printing first 500 prime numbers.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 3 Printing first 500 prime numbers NC\Task 3 Printing first 500 prime numbers\obj\Debug\Task 3 Printing first 500 prime numbers.pdb

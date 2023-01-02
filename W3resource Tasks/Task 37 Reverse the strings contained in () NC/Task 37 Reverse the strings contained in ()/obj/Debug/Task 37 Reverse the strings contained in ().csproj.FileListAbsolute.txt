@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\bin\Debug\Task 37 Reverse the strings contained in ().exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\bin\Debug\Task 37 Reverse the strings contained in ().exe
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\bin\Debug\Task 37 Reverse the strings contained in ().pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\obj\Debug\Task 37 Reverse the strings contained in ().csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\obj\Debug\Task 37 Reverse the strings contained in ().csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\obj\Debug\Task 37 Reverse the strings contained in ().csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\obj\Debug\Task 37 Reverse the strings contained in ().exe
+D:\Programs\Microsoft Visual Studio\projects\Task 37 Reverse the strings contained in () NC\Task 37 Reverse the strings contained in ()\obj\Debug\Task 37 Reverse the strings contained in ().pdb

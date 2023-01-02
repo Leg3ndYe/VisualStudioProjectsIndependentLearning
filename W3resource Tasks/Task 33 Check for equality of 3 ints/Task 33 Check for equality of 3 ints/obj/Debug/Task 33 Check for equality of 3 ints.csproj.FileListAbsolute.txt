@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\bin\Debug\Task 33 Check for equality of 3 ints.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\bin\Debug\Task 33 Check for equality of 3 ints.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\bin\Debug\Task 33 Check for equality of 3 ints.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\obj\Debug\Task 33 Check for equality of 3 ints.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\obj\Debug\Task 33 Check for equality of 3 ints.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\obj\Debug\Task 33 Check for equality of 3 ints.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\obj\Debug\Task 33 Check for equality of 3 ints.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 33 Check for equality of 3 ints\Task 33 Check for equality of 3 ints\obj\Debug\Task 33 Check for equality of 3 ints.pdb
