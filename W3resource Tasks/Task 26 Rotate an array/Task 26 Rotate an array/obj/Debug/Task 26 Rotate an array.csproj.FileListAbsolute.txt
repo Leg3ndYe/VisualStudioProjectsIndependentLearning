@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\bin\Debug\Task 26 Rotate an array.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\bin\Debug\Task 26 Rotate an array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\bin\Debug\Task 26 Rotate an array.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\obj\Debug\Task 26 Rotate an array.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\obj\Debug\Task 26 Rotate an array.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\obj\Debug\Task 26 Rotate an array.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\obj\Debug\Task 26 Rotate an array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 26 Rotate an array\Task 26 Rotate an array\obj\Debug\Task 26 Rotate an array.pdb

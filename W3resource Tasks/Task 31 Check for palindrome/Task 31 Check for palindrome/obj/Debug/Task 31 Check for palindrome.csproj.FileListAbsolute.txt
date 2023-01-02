@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\bin\Debug\Task 31 Check for palindrome.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\bin\Debug\Task 31 Check for palindrome.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\bin\Debug\Task 31 Check for palindrome.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\obj\Debug\Task 31 Check for palindrome.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\obj\Debug\Task 31 Check for palindrome.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\obj\Debug\Task 31 Check for palindrome.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\obj\Debug\Task 31 Check for palindrome.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 31 Check for palindrome\Task 31 Check for palindrome\obj\Debug\Task 31 Check for palindrome.pdb

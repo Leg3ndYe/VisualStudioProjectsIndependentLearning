@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 27 Check for biggest in array", "Task 27 Check for biggest in array\Task 27 Check for biggest in array.csproj", "{AD44663A-8082-46C2-BC40-C8F60802226B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD44663A-8082-46C2-BC40-C8F60802226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD44663A-8082-46C2-BC40-C8F60802226B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD44663A-8082-46C2-BC40-C8F60802226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD44663A-8082-46C2-BC40-C8F60802226B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F50D508-5E2F-40EB-BD91-B268EC0D3E37}
+	EndGlobalSection
+EndGlobal

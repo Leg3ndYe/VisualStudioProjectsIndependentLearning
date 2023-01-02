@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\bin\Debug\Task 29 Check if array has odd num.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\bin\Debug\Task 29 Check if array has odd num.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\bin\Debug\Task 29 Check if array has odd num.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\obj\Debug\Task 29 Check if array has odd num.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\obj\Debug\Task 29 Check if array has odd num.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\obj\Debug\Task 29 Check if array has odd num.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\obj\Debug\Task 29 Check if array has odd num.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 29 Check if array has odd num\Task 29 Check if array has odd num\obj\Debug\Task 29 Check if array has odd num.pdb

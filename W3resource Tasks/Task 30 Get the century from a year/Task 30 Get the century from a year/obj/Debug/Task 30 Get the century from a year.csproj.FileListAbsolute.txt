@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\bin\Debug\Task 30 Get the century from a year.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\bin\Debug\Task 30 Get the century from a year.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\bin\Debug\Task 30 Get the century from a year.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\bin\Debug\Task 30 Get the century from a year.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\bin\Debug\Task 30 Get the century from a year.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\bin\Debug\Task 30 Get the century from a year.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 30 Get the century from a year NC\Task 30 Get the century from a year\obj\Debug\Task 30 Get the century from a year.pdb

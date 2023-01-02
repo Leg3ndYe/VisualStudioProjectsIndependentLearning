@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\bin\Debug\Task 28 Create array from 3 arrays mid values.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\bin\Debug\Task 28 Create array from 3 arrays mid values.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\bin\Debug\Task 28 Create array from 3 arrays mid values.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\obj\Debug\Task 28 Create array from 3 arrays mid values.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\obj\Debug\Task 28 Create array from 3 arrays mid values.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\obj\Debug\Task 28 Create array from 3 arrays mid values.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\obj\Debug\Task 28 Create array from 3 arrays mid values.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 28 Create array from 3 arrays mid values\Task 28 Create array from 3 arrays mid values\obj\Debug\Task 28 Create array from 3 arrays mid values.pdb
