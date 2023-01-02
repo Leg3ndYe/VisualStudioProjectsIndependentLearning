@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\bin\Debug\Complex OOP.exe.config
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\bin\Debug\Complex OOP.exe
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\bin\Debug\Complex OOP.pdb
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\obj\Debug\Complex OOP.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\obj\Debug\Complex OOP.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\obj\Debug\Complex OOP.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\obj\Debug\Complex OOP.exe
+D:\Programs\Microsoft Visual Studio projects\Complex OOP\Complex OOP\obj\Debug\Complex OOP.pdb
