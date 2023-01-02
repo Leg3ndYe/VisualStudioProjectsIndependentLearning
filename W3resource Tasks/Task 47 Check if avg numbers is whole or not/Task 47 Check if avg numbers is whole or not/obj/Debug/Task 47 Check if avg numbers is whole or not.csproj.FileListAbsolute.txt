@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\bin\Debug\Task 47 Check if avg numbers is whole or not.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\bin\Debug\Task 47 Check if avg numbers is whole or not.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\bin\Debug\Task 47 Check if avg numbers is whole or not.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\obj\Debug\Task 47 Check if avg numbers is whole or not.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\obj\Debug\Task 47 Check if avg numbers is whole or not.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\obj\Debug\Task 47 Check if avg numbers is whole or not.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\obj\Debug\Task 47 Check if avg numbers is whole or not.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not\obj\Debug\Task 47 Check if avg numbers is whole or not.pdb

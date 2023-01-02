@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\bin\Debug\Task 45 Remove first and last letters of str.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\bin\Debug\Task 45 Remove first and last letters of str.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\bin\Debug\Task 45 Remove first and last letters of str.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\obj\Debug\Task 45 Remove first and last letters of str.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\obj\Debug\Task 45 Remove first and last letters of str.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\obj\Debug\Task 45 Remove first and last letters of str.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\obj\Debug\Task 45 Remove first and last letters of str.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 45 Remove first and last letters of str\Task 45 Remove first and last letters of str\obj\Debug\Task 45 Remove first and last letters of str.pdb

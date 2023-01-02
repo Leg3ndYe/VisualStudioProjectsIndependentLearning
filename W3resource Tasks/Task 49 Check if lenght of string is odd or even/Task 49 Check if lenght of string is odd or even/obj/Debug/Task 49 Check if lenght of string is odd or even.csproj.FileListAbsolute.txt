@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\bin\Debug\Task 49 Check if lenght of string is odd or even.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\bin\Debug\Task 49 Check if lenght of string is odd or even.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\bin\Debug\Task 49 Check if lenght of string is odd or even.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\obj\Debug\Task 49 Check if lenght of string is odd or even.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\obj\Debug\Task 49 Check if lenght of string is odd or even.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\obj\Debug\Task 49 Check if lenght of string is odd or even.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\obj\Debug\Task 49 Check if lenght of string is odd or even.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 49 Check if lenght of string is odd or even\Task 49 Check if lenght of string is odd or even\obj\Debug\Task 49 Check if lenght of string is odd or even.pdb

@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\bin\Debug\Task 44 check for lower and upper case.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\bin\Debug\Task 44 check for lower and upper case.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\bin\Debug\Task 44 check for lower and upper case.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\obj\Debug\Task 44 check for lower and upper case.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\obj\Debug\Task 44 check for lower and upper case.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\obj\Debug\Task 44 check for lower and upper case.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\obj\Debug\Task 44 check for lower and upper case.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 44 check for lower and upper case\Task 44 check for lower and upper case\obj\Debug\Task 44 check for lower and upper case.pdb

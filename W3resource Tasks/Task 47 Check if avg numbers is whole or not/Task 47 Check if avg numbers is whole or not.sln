@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 47 Check if avg numbers is whole or not", "Task 47 Check if avg numbers is whole or not\Task 47 Check if avg numbers is whole or not.csproj", "{F1746678-FEEC-4851-B12D-80BEE1DA685F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1746678-FEEC-4851-B12D-80BEE1DA685F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1746678-FEEC-4851-B12D-80BEE1DA685F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1746678-FEEC-4851-B12D-80BEE1DA685F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1746678-FEEC-4851-B12D-80BEE1DA685F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F87BE58-0DA5-426D-8FDA-EA4F76B52629}
+	EndGlobalSection
+EndGlobal

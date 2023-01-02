@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\bin\Debug\Task 48 Sort in aplhabetical order.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\bin\Debug\Task 48 Sort in aplhabetical order.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\bin\Debug\Task 48 Sort in aplhabetical order.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\obj\Debug\Task 48 Sort in aplhabetical order.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\obj\Debug\Task 48 Sort in aplhabetical order.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\obj\Debug\Task 48 Sort in aplhabetical order.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\obj\Debug\Task 48 Sort in aplhabetical order.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 48 Sort in aplhabetical order\Task 48 Sort in aplhabetical order\obj\Debug\Task 48 Sort in aplhabetical order.pdb

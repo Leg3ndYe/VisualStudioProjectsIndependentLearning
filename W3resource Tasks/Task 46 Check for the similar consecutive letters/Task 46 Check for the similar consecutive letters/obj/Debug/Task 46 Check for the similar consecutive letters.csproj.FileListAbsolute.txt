@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\bin\Debug\Task 46 Check for the similar consecutive letters.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\bin\Debug\Task 46 Check for the similar consecutive letters.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\bin\Debug\Task 46 Check for the similar consecutive letters.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\obj\Debug\Task 46 Check for the similar consecutive letters.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\obj\Debug\Task 46 Check for the similar consecutive letters.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\obj\Debug\Task 46 Check for the similar consecutive letters.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\obj\Debug\Task 46 Check for the similar consecutive letters.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 46 Check for the similar consecutive letters\Task 46 Check for the similar consecutive letters\obj\Debug\Task 46 Check for the similar consecutive letters.pdb
