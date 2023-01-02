@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\bin\Debug\Task 22 Check if num is in front or back.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\bin\Debug\Task 22 Check if num is in front or back.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\bin\Debug\Task 22 Check if num is in front or back.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\obj\Debug\Task 22 Check if num is in front or back.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\obj\Debug\Task 22 Check if num is in front or back.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\obj\Debug\Task 22 Check if num is in front or back.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\obj\Debug\Task 22 Check if num is in front or back.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 22 Check if num is in front or back\Task 22 Check if num is in front or back\obj\Debug\Task 22 Check if num is in front or back.pdb

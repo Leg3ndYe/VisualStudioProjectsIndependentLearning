@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\bin\Debug\Task 20 Create a string of every 2nd char.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\bin\Debug\Task 20 Create a string of every 2nd char.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\bin\Debug\Task 20 Create a string of every 2nd char.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\obj\Debug\Task 20 Create a string of every 2nd char.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\obj\Debug\Task 20 Create a string of every 2nd char.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\obj\Debug\Task 20 Create a string of every 2nd char.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\obj\Debug\Task 20 Create a string of every 2nd char.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 20 Create a string of every 2nd char\Task 20 Create a string of every 2nd char\obj\Debug\Task 20 Create a string of every 2nd char.pdb

@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\bin\Debug\Task 21 Count how many times 5 is in the array.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\bin\Debug\Task 21 Count how many times 5 is in the array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\bin\Debug\Task 21 Count how many times 5 is in the array.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\obj\Debug\Task 21 Count how many times 5 is in the array.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\obj\Debug\Task 21 Count how many times 5 is in the array.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\obj\Debug\Task 21 Count how many times 5 is in the array.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\obj\Debug\Task 21 Count how many times 5 is in the array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 21 Count how many times 5 is in the array\Task 21 Count how many times 5 is in the array\obj\Debug\Task 21 Count how many times 5 is in the array.pdb

@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\bin\Debug\Task 25 it is task 24 but with 2 arrays.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\bin\Debug\Task 25 it is task 24 but with 2 arrays.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\bin\Debug\Task 25 it is task 24 but with 2 arrays.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\obj\Debug\Task 25 it is task 24 but with 2 arrays.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\obj\Debug\Task 25 it is task 24 but with 2 arrays.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\obj\Debug\Task 25 it is task 24 but with 2 arrays.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\obj\Debug\Task 25 it is task 24 but with 2 arrays.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 25 it is task 24 but with 2 arrays\Task 25 it is task 24 but with 2 arrays\obj\Debug\Task 25 it is task 24 but with 2 arrays.pdb

@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\bin\Debug\Task 23 Write a program to sum all array int.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\bin\Debug\Task 23 Write a program to sum all array int.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\bin\Debug\Task 23 Write a program to sum all array int.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\obj\Debug\Task 23 Write a program to sum all array int.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\obj\Debug\Task 23 Write a program to sum all array int.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\obj\Debug\Task 23 Write a program to sum all array int.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\obj\Debug\Task 23 Write a program to sum all array int.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 23 Write a program to sum all array int\Task 23 Write a program to sum all array int\obj\Debug\Task 23 Write a program to sum all array int.pdb
