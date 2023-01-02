@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 17 Check if w is in 1 to 3 spot in sentence", "Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence.csproj", "{EAFC2B4F-96E1-44C1-A43E-725EF44E30EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFC2B4F-96E1-44C1-A43E-725EF44E30EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFC2B4F-96E1-44C1-A43E-725EF44E30EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFC2B4F-96E1-44C1-A43E-725EF44E30EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFC2B4F-96E1-44C1-A43E-725EF44E30EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4F6C6F-770F-41E4-BF35-728C6316BCA6}
+	EndGlobalSection
+EndGlobal

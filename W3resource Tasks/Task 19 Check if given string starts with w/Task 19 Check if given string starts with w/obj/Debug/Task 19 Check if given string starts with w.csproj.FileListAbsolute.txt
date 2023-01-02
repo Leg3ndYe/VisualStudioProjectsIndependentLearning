@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\bin\Debug\Task 19 Check if given string starts with w.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\bin\Debug\Task 19 Check if given string starts with w.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\bin\Debug\Task 19 Check if given string starts with w.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\obj\Debug\Task 19 Check if given string starts with w.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\obj\Debug\Task 19 Check if given string starts with w.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\obj\Debug\Task 19 Check if given string starts with w.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\obj\Debug\Task 19 Check if given string starts with w.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 19 Check if given string starts with w\Task 19 Check if given string starts with w\obj\Debug\Task 19 Check if given string starts with w.pdb

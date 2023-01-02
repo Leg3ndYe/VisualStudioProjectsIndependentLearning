@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\bin\Debug\Task 13 Check if HP is in scnd place.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\bin\Debug\Task 13 Check if HP is in scnd place.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\bin\Debug\Task 13 Check if HP is in scnd place.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\obj\Debug\Task 13 Check if HP is in scnd place.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\obj\Debug\Task 13 Check if HP is in scnd place.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\obj\Debug\Task 13 Check if HP is in scnd place.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\obj\Debug\Task 13 Check if HP is in scnd place.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 13 Check if HP is in scnd place\Task 13 Check if HP is in scnd place\obj\Debug\Task 13 Check if HP is in scnd place.pdb

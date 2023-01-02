@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\bin\Debug\Task 16 Check for largest and closest.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\bin\Debug\Task 16 Check for largest and closest.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\bin\Debug\Task 16 Check for largest and closest.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\obj\Debug\Task 16 Check for largest and closest.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\obj\Debug\Task 16 Check for largest and closest.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\obj\Debug\Task 16 Check for largest and closest.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\obj\Debug\Task 16 Check for largest and closest.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 16 Check for largest and closest\Task 16 Check for largest and closest\obj\Debug\Task 16 Check for largest and closest.pdb

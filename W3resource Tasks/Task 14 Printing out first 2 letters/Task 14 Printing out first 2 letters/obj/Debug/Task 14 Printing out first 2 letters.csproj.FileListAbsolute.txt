@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\bin\Debug\Task 14 Printing out first 2 letters.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\bin\Debug\Task 14 Printing out first 2 letters.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\bin\Debug\Task 14 Printing out first 2 letters.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\obj\Debug\Task 14 Printing out first 2 letters.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\obj\Debug\Task 14 Printing out first 2 letters.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\obj\Debug\Task 14 Printing out first 2 letters.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\obj\Debug\Task 14 Printing out first 2 letters.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters\obj\Debug\Task 14 Printing out first 2 letters.pdb

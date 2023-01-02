@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 14 Printing out first 2 letters", "Task 14 Printing out first 2 letters\Task 14 Printing out first 2 letters.csproj", "{EC12BCD9-0EBB-429A-A3C4-9976FA853737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC12BCD9-0EBB-429A-A3C4-9976FA853737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC12BCD9-0EBB-429A-A3C4-9976FA853737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC12BCD9-0EBB-429A-A3C4-9976FA853737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC12BCD9-0EBB-429A-A3C4-9976FA853737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BBB4B03-6700-46F1-9C34-3969D996FACB}
+	EndGlobalSection
+EndGlobal

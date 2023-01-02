@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\bin\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\bin\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\bin\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\obj\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\obj\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\obj\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\obj\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 17 Check if w is in 1 to 3 spot in sentence\Task 17 Check if w is in 1 to 3 spot in sentence\obj\Debug\Task 17 Check if w is in 1 to 3 spot in sentence.pdb
