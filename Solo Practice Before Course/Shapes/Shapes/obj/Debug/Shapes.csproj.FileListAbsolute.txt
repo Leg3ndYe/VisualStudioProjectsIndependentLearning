@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Programs\Microsoft Visual Studio projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\lukas\Desktop\GitHub Tasks\TasksFromKing\Shapes\Shapes\obj\Debug\Shapes.pdb
