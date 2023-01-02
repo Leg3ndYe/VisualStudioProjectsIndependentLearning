@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\bin\Debug\Task 6 Turn Hexadecimal to Decimal.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\bin\Debug\Task 6 Turn Hexadecimal to Decimal.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\bin\Debug\Task 6 Turn Hexadecimal to Decimal.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 6 Turn Hexadecimal to Decimal\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.pdb
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\bin\Debug\Task 6 Turn Hexadecimal to Decimal.exe.config
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\bin\Debug\Task 6 Turn Hexadecimal to Decimal.exe
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\bin\Debug\Task 6 Turn Hexadecimal to Decimal.pdb
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.exe
+C:\Users\lukas\Desktop\Basic tasks\Task 6 Turn Hexadecimal to Decimal NC\Task 6 Turn Hexadecimal to Decimal\obj\Debug\Task 6 Turn Hexadecimal to Decimal.pdb

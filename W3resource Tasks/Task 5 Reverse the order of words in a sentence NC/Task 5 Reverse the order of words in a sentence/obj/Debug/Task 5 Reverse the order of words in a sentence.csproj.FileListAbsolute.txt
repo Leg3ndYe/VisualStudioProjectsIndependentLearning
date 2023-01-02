@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\bin\Debug\Task 5 Reverse the order of words in a sentence.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\bin\Debug\Task 5 Reverse the order of words in a sentence.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\bin\Debug\Task 5 Reverse the order of words in a sentence.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\obj\Debug\Task 5 Reverse the order of words in a sentence.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\obj\Debug\Task 5 Reverse the order of words in a sentence.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\obj\Debug\Task 5 Reverse the order of words in a sentence.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\obj\Debug\Task 5 Reverse the order of words in a sentence.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 5 Reverse the order of words in a sentence\Task 5 Reverse the order of words in a sentence\obj\Debug\Task 5 Reverse the order of words in a sentence.pdb

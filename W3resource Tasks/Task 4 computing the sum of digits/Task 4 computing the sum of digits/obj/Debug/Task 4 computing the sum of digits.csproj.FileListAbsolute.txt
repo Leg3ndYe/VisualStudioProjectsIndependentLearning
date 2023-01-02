@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\bin\Debug\Task 4 computing the sum of digits.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\bin\Debug\Task 4 computing the sum of digits.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\bin\Debug\Task 4 computing the sum of digits.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\obj\Debug\Task 4 computing the sum of digits.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\obj\Debug\Task 4 computing the sum of digits.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\obj\Debug\Task 4 computing the sum of digits.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\obj\Debug\Task 4 computing the sum of digits.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 4 computing the sum of digits\Task 4 computing the sum of digits\obj\Debug\Task 4 computing the sum of digits.pdb

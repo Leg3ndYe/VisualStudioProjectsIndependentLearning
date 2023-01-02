@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\bin\Debug\Task 1.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\bin\Debug\Task 1.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\bin\Debug\Task 1.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\obj\Debug\Task 1.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\obj\Debug\Task 1.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 1\Task 1\obj\Debug\Task 1.pdb
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\bin\Debug\Task 1.exe
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\bin\Debug\Task 1.pdb
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\obj\Debug\Task 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\obj\Debug\Task 1.exe
+C:\Users\lukas\Desktop\Basic tasks\Task 1 Printing the longest word\Task 1\obj\Debug\Task 1.pdb

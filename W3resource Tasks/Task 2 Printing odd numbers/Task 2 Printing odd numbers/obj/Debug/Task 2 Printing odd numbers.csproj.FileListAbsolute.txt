@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\bin\Debug\Task 2 Printing odd numbers.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\bin\Debug\Task 2 Printing odd numbers.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\bin\Debug\Task 2 Printing odd numbers.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\obj\Debug\Task 2 Printing odd numbers.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\obj\Debug\Task 2 Printing odd numbers.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\obj\Debug\Task 2 Printing odd numbers.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\obj\Debug\Task 2 Printing odd numbers.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 2 Printing odd numbers\Task 2 Printing odd numbers\obj\Debug\Task 2 Printing odd numbers.pdb
