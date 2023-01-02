@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\bin\Debug\Task 43 Count specified char in str.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\bin\Debug\Task 43 Count specified char in str.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\bin\Debug\Task 43 Count specified char in str.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\obj\Debug\Task 43 Count specified char in str.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\obj\Debug\Task 43 Count specified char in str.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\obj\Debug\Task 43 Count specified char in str.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\obj\Debug\Task 43 Count specified char in str.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 43 Count specified char in str\Task 43 Count specified char in str\obj\Debug\Task 43 Count specified char in str.pdb

@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\bin\Debug\Task 38 is given number present in array.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\bin\Debug\Task 38 is given number present in array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\bin\Debug\Task 38 is given number present in array.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\obj\Debug\Task 38 is given number present in array.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\obj\Debug\Task 38 is given number present in array.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\obj\Debug\Task 38 is given number present in array.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\obj\Debug\Task 38 is given number present in array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 38 is given number present in array\Task 38 is given number present in array\obj\Debug\Task 38 is given number present in array.pdb

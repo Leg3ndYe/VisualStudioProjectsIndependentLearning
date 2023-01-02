@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\bin\Debug\Task 41 Find minimum value from 2 given num.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\bin\Debug\Task 41 Find minimum value from 2 given num.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\bin\Debug\Task 41 Find minimum value from 2 given num.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\obj\Debug\Task 41 Find minimum value from 2 given num.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\obj\Debug\Task 41 Find minimum value from 2 given num.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\obj\Debug\Task 41 Find minimum value from 2 given num.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\obj\Debug\Task 41 Find minimum value from 2 given num.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 41 Find minimum value from 2 given num\Task 41 Find minimum value from 2 given num\obj\Debug\Task 41 Find minimum value from 2 given num.pdb

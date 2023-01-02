@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\bin\Debug\Task 40 Multiply elements in array by lenght.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\bin\Debug\Task 40 Multiply elements in array by lenght.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\bin\Debug\Task 40 Multiply elements in array by lenght.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\obj\Debug\Task 40 Multiply elements in array by lenght.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\obj\Debug\Task 40 Multiply elements in array by lenght.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\obj\Debug\Task 40 Multiply elements in array by lenght.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\obj\Debug\Task 40 Multiply elements in array by lenght.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 40 Multiply elements in array by lenght\Task 40 Multiply elements in array by lenght\obj\Debug\Task 40 Multiply elements in array by lenght.pdb

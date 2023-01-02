@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\bin\Debug\Task 39 Get file path.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\bin\Debug\Task 39 Get file path.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\bin\Debug\Task 39 Get file path.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\obj\Debug\Task 39 Get file path.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\obj\Debug\Task 39 Get file path.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\obj\Debug\Task 39 Get file path.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\obj\Debug\Task 39 Get file path.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 39 Get file path\Task 39 Get file path\obj\Debug\Task 39 Get file path.pdb

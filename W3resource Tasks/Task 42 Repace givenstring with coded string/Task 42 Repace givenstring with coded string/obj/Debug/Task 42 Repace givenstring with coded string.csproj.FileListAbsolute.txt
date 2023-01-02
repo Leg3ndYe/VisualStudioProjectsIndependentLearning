@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\bin\Debug\Task 42 Repace givenstring with coded string.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\bin\Debug\Task 42 Repace givenstring with coded string.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\bin\Debug\Task 42 Repace givenstring with coded string.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\obj\Debug\Task 42 Repace givenstring with coded string.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\obj\Debug\Task 42 Repace givenstring with coded string.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\obj\Debug\Task 42 Repace givenstring with coded string.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\obj\Debug\Task 42 Repace givenstring with coded string.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 42 Repace givenstring with coded string\Task 42 Repace givenstring with coded string\obj\Debug\Task 42 Repace givenstring with coded string.pdb
