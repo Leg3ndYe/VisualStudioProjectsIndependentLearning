@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\bin\Debug\DB Course 1.exe.config
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\bin\Debug\DB Course 1.exe
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\bin\Debug\DB Course 1.pdb
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\obj\Debug\DB Course 1.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\obj\Debug\DB Course 1.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\obj\Debug\DB Course 1.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\obj\Debug\DB Course 1.exe
+D:\Programs\Microsoft Visual Studio projects\DB Course 1\DB Course 1\obj\Debug\DB Course 1.pdb
