@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\bin\Debug\Task 52 Check if given word is plural or no.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\bin\Debug\Task 52 Check if given word is plural or no.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\bin\Debug\Task 52 Check if given word is plural or no.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\obj\Debug\Task 52 Check if given word is plural or no.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\obj\Debug\Task 52 Check if given word is plural or no.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\obj\Debug\Task 52 Check if given word is plural or no.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\obj\Debug\Task 52 Check if given word is plural or no.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 52 Check if given word is plural or no\Task 52 Check if given word is plural or no\obj\Debug\Task 52 Check if given word is plural or no.pdb

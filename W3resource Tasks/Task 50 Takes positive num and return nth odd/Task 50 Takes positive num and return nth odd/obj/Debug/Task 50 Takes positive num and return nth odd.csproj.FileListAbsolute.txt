@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\bin\Debug\Task 50 Takes positive num and return nth odd.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\bin\Debug\Task 50 Takes positive num and return nth odd.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\bin\Debug\Task 50 Takes positive num and return nth odd.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\obj\Debug\Task 50 Takes positive num and return nth odd.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\obj\Debug\Task 50 Takes positive num and return nth odd.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\obj\Debug\Task 50 Takes positive num and return nth odd.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\obj\Debug\Task 50 Takes positive num and return nth odd.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 50 Takes positive num and return nth odd\Task 50 Takes positive num and return nth odd\obj\Debug\Task 50 Takes positive num and return nth odd.pdb

@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\bin\Debug\Task 53 find sum of squares in array.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\bin\Debug\Task 53 find sum of squares in array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\bin\Debug\Task 53 find sum of squares in array.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\obj\Debug\Task 53 find sum of squares in array.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\obj\Debug\Task 53 find sum of squares in array.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\obj\Debug\Task 53 find sum of squares in array.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\obj\Debug\Task 53 find sum of squares in array.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 53 find sum of squares in array\Task 53 find sum of squares in array\obj\Debug\Task 53 find sum of squares in array.pdb

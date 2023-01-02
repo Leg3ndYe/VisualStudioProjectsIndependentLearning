@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\bin\Debug\Task 51 Get ascii value of char.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\bin\Debug\Task 51 Get ascii value of char.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\bin\Debug\Task 51 Get ascii value of char.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\obj\Debug\Task 51 Get ascii value of char.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\obj\Debug\Task 51 Get ascii value of char.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\obj\Debug\Task 51 Get ascii value of char.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\obj\Debug\Task 51 Get ascii value of char.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 51 Get ascii value of char\Task 51 Get ascii value of char\obj\Debug\Task 51 Get ascii value of char.pdb
