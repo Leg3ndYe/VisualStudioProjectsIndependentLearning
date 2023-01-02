@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\Abstract Classes and Methods.exe.config
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\Abstract Classes and Methods.exe
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\Abstract Classes and Methods.pdb
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.exe
+D:\Programs\Microsoft Visual Studio projects\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\Abstract Classes and Methods.pdb
