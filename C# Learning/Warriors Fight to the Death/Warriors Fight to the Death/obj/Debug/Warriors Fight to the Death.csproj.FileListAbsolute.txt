@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\bin\Debug\Warriors Fight to the Death.exe.config
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\bin\Debug\Warriors Fight to the Death.exe
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\bin\Debug\Warriors Fight to the Death.pdb
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\obj\Debug\Warriors Fight to the Death.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\obj\Debug\Warriors Fight to the Death.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\obj\Debug\Warriors Fight to the Death.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\obj\Debug\Warriors Fight to the Death.exe
+D:\Programs\Microsoft Visual Studio projects\Warriors Fight to the Death\Warriors Fight to the Death\obj\Debug\Warriors Fight to the Death.pdb
