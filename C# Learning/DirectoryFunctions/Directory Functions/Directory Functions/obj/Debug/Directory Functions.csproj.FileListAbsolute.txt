@@ -1,0 +1,16 @@
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\bin\Debug\Directory Functions.exe.config
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\bin\Debug\Directory Functions.exe
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\bin\Debug\Directory Functions.pdb
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\obj\Debug\Directory Functions.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\obj\Debug\Directory Functions.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\obj\Debug\Directory Functions.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\obj\Debug\Directory Functions.exe
+D:\Programs\Microsoft Visual Studio projects\Directory Functions\Directory Functions\obj\Debug\Directory Functions.pdb
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\bin\Debug\Directory Functions.exe.config
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\bin\Debug\Directory Functions.exe
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\bin\Debug\Directory Functions.pdb
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\obj\Debug\Directory Functions.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\obj\Debug\Directory Functions.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\obj\Debug\Directory Functions.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\obj\Debug\Directory Functions.exe
+D:\Programs\Microsoft Visual Studio projects\DirectoryFunctions\Directory Functions\Directory Functions\obj\Debug\Directory Functions.pdb
