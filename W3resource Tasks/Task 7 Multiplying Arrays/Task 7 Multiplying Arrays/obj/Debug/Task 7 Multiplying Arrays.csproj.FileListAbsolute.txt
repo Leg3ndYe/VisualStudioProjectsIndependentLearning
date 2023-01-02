@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\bin\Debug\Task 7 Multiplying Arrays.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\bin\Debug\Task 7 Multiplying Arrays.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\bin\Debug\Task 7 Multiplying Arrays.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\obj\Debug\Task 7 Multiplying Arrays.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\obj\Debug\Task 7 Multiplying Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\obj\Debug\Task 7 Multiplying Arrays.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\obj\Debug\Task 7 Multiplying Arrays.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 7 Multiplying Arrays\Task 7 Multiplying Arrays\obj\Debug\Task 7 Multiplying Arrays.pdb

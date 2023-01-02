@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\bin\Debug\Task 9 Check if a number is a multiple.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\bin\Debug\Task 9 Check if a number is a multiple.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\bin\Debug\Task 9 Check if a number is a multiple.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\obj\Debug\Task 9 Check if a number is a multiple.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\obj\Debug\Task 9 Check if a number is a multiple.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\obj\Debug\Task 9 Check if a number is a multiple.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\obj\Debug\Task 9 Check if a number is a multiple.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 9 Check if a number is a multiple\Task 9 Check if a number is a multiple\obj\Debug\Task 9 Check if a number is a multiple.pdb

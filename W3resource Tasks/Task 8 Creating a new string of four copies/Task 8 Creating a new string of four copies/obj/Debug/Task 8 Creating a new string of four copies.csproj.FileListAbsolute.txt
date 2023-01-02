@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\bin\Debug\Task 8 Creating a new string of four copies.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\bin\Debug\Task 8 Creating a new string of four copies.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\bin\Debug\Task 8 Creating a new string of four copies.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\obj\Debug\Task 8 Creating a new string of four copies.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\obj\Debug\Task 8 Creating a new string of four copies.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\obj\Debug\Task 8 Creating a new string of four copies.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\obj\Debug\Task 8 Creating a new string of four copies.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 8 Creating a new string of four copies\Task 8 Creating a new string of four copies\obj\Debug\Task 8 Creating a new string of four copies.pdb

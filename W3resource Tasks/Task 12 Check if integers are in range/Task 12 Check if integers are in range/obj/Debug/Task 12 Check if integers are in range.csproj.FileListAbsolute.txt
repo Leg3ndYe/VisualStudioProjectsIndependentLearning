@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\bin\Debug\Task 12 Check if integers are in range.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\bin\Debug\Task 12 Check if integers are in range.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\bin\Debug\Task 12 Check if integers are in range.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\obj\Debug\Task 12 Check if integers are in range.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\obj\Debug\Task 12 Check if integers are in range.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\obj\Debug\Task 12 Check if integers are in range.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\obj\Debug\Task 12 Check if integers are in range.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 12 Check if integers are in range\Task 12 Check if integers are in range\obj\Debug\Task 12 Check if integers are in range.pdb

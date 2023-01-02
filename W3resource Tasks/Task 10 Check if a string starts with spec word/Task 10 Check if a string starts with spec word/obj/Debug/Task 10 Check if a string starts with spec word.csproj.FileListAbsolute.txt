@@ -1,0 +1,8 @@
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\bin\Debug\Task 10 Check if a string starts with spec word.exe.config
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\bin\Debug\Task 10 Check if a string starts with spec word.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\bin\Debug\Task 10 Check if a string starts with spec word.pdb
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\obj\Debug\Task 10 Check if a string starts with spec word.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\obj\Debug\Task 10 Check if a string starts with spec word.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\obj\Debug\Task 10 Check if a string starts with spec word.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\obj\Debug\Task 10 Check if a string starts with spec word.exe
+D:\Programs\Microsoft Visual Studio\projects\Task 10 Check if a string starts with spec word\Task 10 Check if a string starts with spec word\obj\Debug\Task 10 Check if a string starts with spec word.pdb
