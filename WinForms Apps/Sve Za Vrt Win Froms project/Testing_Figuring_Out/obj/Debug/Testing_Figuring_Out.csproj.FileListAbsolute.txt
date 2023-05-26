@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\bin\Debug\Testing_Figuring_Out.exe.config
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\bin\Debug\Testing_Figuring_Out.exe
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\bin\Debug\Testing_Figuring_Out.pdb
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.Form1.resources
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.Properties.Resources.resources
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.csproj.GenerateResource.cache
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.exe
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.pdb
+D:\Visual Studio Projects\WinFormsLearning2\Testing_Figuring_Out\obj\Debug\Testing_Figuring_Out.Form2.resources
